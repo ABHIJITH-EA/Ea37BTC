@@ -1,0 +1,7 @@
+This is a source-to-source reimplementation of the Bitcoin code (0.1.0).
+Taking the effort to understand the very first fundamental idea behind 
+this revolutionary idea. The most valuable digital asset in the world!
+
+Note:
+	* Satoshi Nakamoto wrote the initial version in C++.
+	* The reimplementation will be in C.
